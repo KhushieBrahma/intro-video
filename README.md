@@ -21,7 +21,7 @@ This repository contains my introductory video created as part of my academic as
 
 You can view/download the video from the link below:
 
-👉 [Click here to watch the video](./your-video-file-name.mp4)
+👉 [Click here to watch the video](https://drive.google.com/file/d/1tGu773CiO91ZTHmx-pY90VelqbjJ6vUr/view?usp=sharing)
 
 ## 🌟 Note
 
